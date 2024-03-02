@@ -1,0 +1,28 @@
+
+.div1{
+    width: 1000px;
+    height: 200px;
+    border-image-repeat: round;
+    padding-left: 150px;
+    
+}
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    
+}
+img{
+    width: 1000px;
+    height: 200px;
+}
+
+iframe{
+    padding-left: 250px;
+}
